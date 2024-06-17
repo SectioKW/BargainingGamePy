@@ -17,7 +17,7 @@ class Game:
         
     
     def get_payoff(self):
-        \
+        
         payoff = []
         
         for i in range(0,len(self.players)):
